@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,36): warning C4566: символ, представленный универсальным именем символа "\u25CF", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,36): warning C4566: символ, представленный универсальным именем символа "\u25E1", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,53): warning C4566: символ, представленный универсальным именем символа "\u0CA0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,64): warning C4566: символ, представленный универсальным именем символа "\uFF89", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,64): warning C4566: символ, представленный универсальным именем символа "\u25D5", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,64): warning C4566: символ, представленный универсальным именем символа "\u30EE", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,64): warning C4566: символ, представленный универсальным именем символа "\uFF65", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,64): warning C4566: символ, представленный универсальным именем символа "\uFF9F", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,64): warning C4566: символ, представленный универсальным именем символа "\u2727", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(116,28): error C2248: User::password: невозможно обратиться к protected член, объявленному в классе "User"
+      C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,12):
+       см. объявление "User::password"
+      C:\Users\Максим\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,7):
+       см. объявление "User"
+  

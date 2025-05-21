@@ -1,0 +1,6 @@
+1;Laptop;Electronics;1200
+2;Watch;Accessories;250
+3;Chair;Furniture;80
+4;Phone;Electronics;500
+5;Table;Furniture;150
+6;321;12;1
